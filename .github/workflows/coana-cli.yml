@@ -2,7 +2,7 @@
 
 name: Coana CLI
 
-on: pull_request
+on: push
 
 jobs:
   # run extension unit tests
